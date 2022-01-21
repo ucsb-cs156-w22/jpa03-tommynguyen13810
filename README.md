@@ -1,6 +1,8 @@
 [![codecov](https://codecov.io/gh/ucsb-cs156-w22/jpa03-tommynguyen13810/branch/master/graph/badge.svg?token=LYCjAw122S)](https://codecov.io/gh/ucsb-cs156-w22/jpa03-tommynguyen13810)
 # demo-spring-react-example: dsre
 
+GitHub Repo: https://github.com/ucsb-cs156-w22/jpa03-tommynguyen13810
+
 Storybook is here:
 * Production: <https://ucsb-cs156-w22.github.io/demo-spring-react-example-docs/>
 * QA:  <https://ucsb-cs156-w22.github.io/demo-spring-react-example-docs-qa/>
