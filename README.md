@@ -1,8 +1,11 @@
-# demo-spring-react-example: dsre
-update
+[![codecov](https://codecov.io/gh/ucsb-cs156-w22/jpa03-tommynguyen13810/branch/master/graph/badge.svg?token=LYCjAw122S)](https://codecov.io/gh/ucsb-cs156-w22/jpa03-tommynguyen13810)
+# jpa03-tommynguyen13810
+
+GitHub Repo: https://github.com/ucsb-cs156-w22/jpa03-tommynguyen13810
+
 Storybook is here:
-* Production: <https://ucsb-cs156-w22.github.io/demo-spring-react-example-docs/>
-* QA:  <https://ucsb-cs156-w22.github.io/demo-spring-react-example-docs-qa/>
+* Production: <https://ucsb-cs156-w22.github.io/jpa03-tommynguyen13810-docs/>
+* QA:  <https://ucsb-cs156-w22.github.io/jpa03-tommynguyen13810-docs-qa/>
 
 The GitHub actions script to deploy the Storybook to QA requires some configuration; see [docs/github-actions.md](docs/github-actions.md) for details.
 
