@@ -1,4 +1,4 @@
-[![codecov](https://codecov.io/gh/ucsb-cs156-w22/jpa03-tommynguyen13810/branch/master/graph/badge.svg?token=LYCjAw122S)](https://codecov.io/gh/ucsb-cs156-w22/jpa03-tommynguyen13810)
+[![codecov](https://codecov.io/gh/ucsb-cs156-w22/jpa03-tommynguyen13810/branch/main/graph/badge.svg?token=LYCjAw122S)](https://codecov.io/gh/ucsb-cs156-w22/jpa03-tommynguyen13810)
 # jpa03-tommynguyen13810
 
 GitHub Repo: https://github.com/ucsb-cs156-w22/jpa03-tommynguyen13810
